@@ -10,3 +10,8 @@
 
 # For start our Application 
 node app.js
+
+# Run Our Application In Backgroud     install pm2
+
+#  sudo pm2 start app.js
+
